@@ -599,6 +599,13 @@ const emojiItems = [
         year: 1987
     },
     {
+        title: "So You Think You Can Dance",
+        emojiImgs: "🎵👦👧💃🕺🎶",
+        genres: ["music", "game-show", "dance"],
+        type: "reality-tv",
+        year: 2005
+    },
+    {
         title: "The Lion King",
         emojiImgs: "🦁👑🌍",
         genres: ["animation", "adventure", "drama"],
